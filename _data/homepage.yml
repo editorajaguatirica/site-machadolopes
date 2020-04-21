@@ -1,0 +1,75 @@
+#topbar
+telefone: +55 21 97287-5609
+email: fariaselopes@gmail.com
+horario: Seg - Sex 10:00-17:00
+link_whatsapp: https://web.whatsapp.com/send?phone=5521972875609&text=Tenho%20uma%20consulta%20para%20fazer:%20O%20caso%20é%20o%20seguinte...
+endereco_1: Av. Rio Branco, 185 sala 1012 
+endereco_2: Centro Rio de Janeiro RJ
+endereco_3: CEP 20.040-007
+instagram: 
+twitter: 
+linkedin: 
+facebook: 
+pinterest:
+
+#logo
+logo: /upload/logo_fl.png
+
+#menu
+navigation:
+- menu: Início
+  url: 
+- menu: Especialidades
+  url: "#especialidades"
+- menu: Estudo de casos
+  url: "#casos"
+- menu: Blog
+  url: /blog.html
+- menu: Contato 
+  url: "#contato"
+
+#slides
+slides:
+- titulo_1: Advocacia
+- subtitulo_1: dsfasfasdfasdfasd
+- texto_1: sdfasdfsfasdflkwjeqr;kljqwr;elkjqw;rlkjqw;lkjas;dlfkjas;ldfkja;sldfjas;lfkd;slkjda 
+- img_1: /upload/slider-1.jpg
+
+- titulo_2: Contratos
+- subtitulo_2: asfdasdf
+- texto_2: sfkljaf;dlkjasflk;asjdf;alksjdf;alksjdf;alkjwpoiuweoiqpuqpeowruiqwouriqwoeuriqweorui
+- img_2: /upload/slider-2.jpg
+
+#footer
+sobre_o_site: O site Fariaselopes.com.br é o veículo de informação mantido por FARIAS & LOPES, Advogados Associados com seus clientes e colaboradores. 
+
+#legal practices
+ramo_1: Direito do Consumidor
+icon_1: /upload/hp-icon-1.png
+texto_ramo_1: O Direito do Consumidor cuida das relações entre fornecedores de bens e serviços e seus consumidores e tem por objetivo assegurar o acesso a informações, qualidade dos produtos e serviços e assegurar proteção contra fraudes no mercado de consumo.   
+
+ramo_2: Direito Imobiliário
+icon_2: /upload/hp-icon-2.png
+texto_ramo_2: Promovemos a defesa do seu patrimônio em todos seus aspectos. Assessoria em contratos de aluguel, compra e venda, regularização de imóveis, Condomínios. A complexidade dos negócios imobiliários e os riscos recomendam uma assessoria especializada.
+
+ramo_3: Direito Tributário
+icon_3: /upload/tax.png
+texto_ramo_3: Peça uma análise das contas de sua empresa e veja onde poderá economizar e obter restituição ou compensação de tributos.
+
+ramo_4: Direito Penal
+icon_4: /upload/penal.png
+texto_ramo_4: Todas as pessoas merecem uma defesa técnica à altura da acusação. Conte com nossa assessoria jurídica para traçar a melhor estratégia de defesa.
+
+ramo_5: Direito Administrativo
+icon_5: /upload/hp-icon-5.png
+texto_ramo_5: Todos estão sujeitos às relações com o Estado, empresários ou pessoas físicas, nas suas esferas governamentais município, Estado e União. Por isso é preciso estar atento às exigências das leis e das autoridades.
+
+ramo_6: Direito Empresarial
+icon_6: /upload/hp-icon-6.png
+texto_ramo_6: O direito empresarial é um mix de vários ramos do Direito que atingem o cotidiano de uma empresa. Questões trabalhistas, administrativas, comerciais, entre outras, interferem no dia a dia do empresário. 
+
+cases: 
+  - img: upload/Family1-600x600.jpg
+  - url: /_pages/garantia-consumidor.md
+  - ramo: Direito do Consumidor
+  - titulo: Garantia de equipamentos
